@@ -1,0 +1,22 @@
+sd = {["Player"]={
+    spriteX=0,
+    spriteY=0,
+    tilemap="fg",
+    rotation=1,
+    solid=false
+    },
+    ["Stone"]={
+    spriteX=0,
+    spriteY=0,
+    tilemap="bg",
+    rotation=0,
+    solid=false
+    },
+    ["Wall"]={
+    spriteX=0,
+    spriteY=0,
+    tilemap="bg",
+    rotation=0,
+    solid=true
+    }
+}
